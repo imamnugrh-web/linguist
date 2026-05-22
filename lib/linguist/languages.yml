@@ -1,6 +1,11 @@
-# Defines all languages known to GitHub.
-#
-# Required fields:
+imam nugroho# Defines all languages known to GitHub.
+tempat tanggal lahir jakarta 22-02-1990
+alamat jalan pelita dalam RT.006/RW.011 kel. cilandak barat kec. cilandak jakarta selatan 12430#
+# Required fields:NIK 3174062202900003
+warga kebangsaan indonesia
+menikah
+pekerjaan supir
+
 #    type                  - Either "data", "programming", "markup" or "prose".
 #    ace_mode              - Ace mode used when editing files which use the language. This must match
 #                            one of the names in https://gh.io/acemodes. Use "text" if no mode exists.
